@@ -1,0 +1,123 @@
+@charset "UTF-8";
+
+
+
+
+.container{
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 0 3%;
+
+}
+
+/*-------------------------------------------------------------*/
+a{
+	color: yellow;
+}
+/*-------------------------------------------------------------*/
+#menu{
+	text-align: center;
+	font-size: 20px;
+	margin: 100px 10px;
+
+}
+
+#menu li{
+	display: inline;
+
+}
+
+#menu li a{
+	text-decoration: bottom;
+	padding: 10px 30px;
+	color: #ffffff;
+
+	border-radius: 10px;
+    font-family: YuGothic,'Yu Gothic',monospace;
+    margin: 0px 30px;
+}
+
+/*-------------------------------------------------------------*/
+.imge img{
+	border-radius: 50px;
+	margin: 0px 40px;
+}
+
+/*-------------------------------------------------------------*/
+body{
+	margin: 0px;
+	padding: 0px;
+	color: #fff;
+	font-size: 16px;
+	line-height: 2;
+	background: #000;
+	font-family: serif;
+
+}
+/*------------------------------------------------------------*/
+h1{
+	text-align:  center;
+	font-size: 50px;
+}
+/*------------------------------------------------------------*/
+h2{
+	font-size: 20px;
+	margin-top: 100px;
+	background-color: red;
+	border-radius: 10px;
+	padding: 10px 70px;
+    font-family: YuGothic,'Yu Gothic',monospace;
+    margin: 70px 0px;
+}
+
+/*------------------------------------------------------------*/
+.gaiyou{
+	font-size: 20px;
+	margin: 70px 60px;
+}
+/*-------------------------------------------------------------*/
+
+caption{
+	padding-bottom: 30px;
+ }
+
+
+table{
+	border-collapse: collapse;
+    border-spacing: 0;
+    width: 70%;
+	margin: 100px 200px;
+}
+
+table tr{
+    border-bottom: solid 1px #eee;
+}
+
+table th,table td{
+	font-size: 20px;
+}
+
+table caption{
+	font-size: 30px;
+
+}
+/*-------------------------------------------------------------*/
+.a {
+	margin-top: 20;
+
+}
+/*-------------------------------------------------------------*/
+.tyui {
+	font-size: 20px;
+	color: yellow;
+}
+
+/*-------------------------------------------------------------*/
+.aa{
+	text-align: center;
+	padding: 40px 0px;
+	color:gray;
+
+}
+
+

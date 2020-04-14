@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>初めてのホームページ</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<script type="text/javascript" src="hoge.js"></script>
+<div class="container">
+<h1>ナオミと行く～日帰り温泉旅行in大分～</h1>
+<div class="imge">
+<img src="onsen3.jpg" width="1326" height="500" alt="top">
+</div>
+
+<nav id="menu">
+<ul>
+<li><a href="https://www.google.com/maps/place/%E5%A4%A7%E5%88%86%E7%9C%8C%E5%88%A5%E5%BA%9C%E5%B8%82/@33.2891374,131.3795465,12z/data=!3m1!4b1!4m5!3m4!1s0x3546a618509f24c7:0x89c8f818256b6722!8m2!3d33.2844614!4d131.4907093" target="_blank" rel="noopener noreferrer">Map</a></li>
+<li><a href="https://www.google.com/maps/place/%E3%82%BB%E3%83%96%E3%83%B3%E2%80%90%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3+%E7%A6%8F%E5%B2%A1%E6%B8%A1%E8%BE%BA%E9%80%9A%EF%BC%91%E4%B8%81%E7%9B%AE%E5%BA%97/@33.5840581,130.4066802,17z/data=!4m5!3m4!1s0x3541919992d2e9f9:0x779010a488a871!8m2!3d33.5840782!4d130.4065628" target="_blank" rel="noopener noreferrer">Meeting place</a></li>
+<li><a href="sq.html">Schedule</a></li>
+<li><a href="fot.html">Gallery</a></li>
+</ul>
+
+</nav>
+
+<h2>Overview</h2>
+<div class="gaiyou">
+<p>サンセルコ学校に入学して早いようで長く、卒業の時期が近づいてきました。
+日々壮絶で大変な毎日でしたが最後の思い出に卒業旅行を計画しようと思います。
+日程等の詳細はスケジュールより確認をお願いいたします。
+
+
+</p>
+</div>
+
+<h2>Plan</h2>
+<table>
+<caption>詳細内容</caption>
+<tr><th>日時</th><th>2020年3月14日（土）８：００～　サンセルコ付近セブン（渡辺通1丁目店）集合 <a href="https://www.google.com/maps/place/%E3%82%BB%E3%83%96%E3%83%B3%E2%80%90%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3+%E7%A6%8F%E5%B2%A1%E6%B8%A1%E8%BE%BA%E9%80%9A%EF%BC%91%E4%B8%81%E7%9B%AE%E5%BA%97/@33.5840581,130.4066802,17z/data=!4m5!3m4!1s0x3541919992d2e9f9:0x779010a488a871!8m2!3d33.5840782!4d130.4065628" target="_blank" rel="noopener noreferrer">地図</a></th></tr>
+<tr><th>場所</th><th>大分（別府）の秘湯。ついてからのお楽しみです。地図はおまけです。 <a href="https://www.google.com/maps/place/%E5%A4%A7%E5%88%86%E7%9C%8C%E5%88%A5%E5%BA%9C%E5%B8%82/@33.2891374,131.3795465,12z/data=!3m1!4b1!4m5!3m4!1s0x3546a618509f24c7:0x89c8f818256b6722!8m2!3d33.2844614!4d131.4907093" target="_blank" rel="noopener noreferrer" >地図</a></th></tr>
+<tr><th>持ち物</th><th>タオル・着替え・入浴セット・自制心・お金</th></tr>
+<tr><th>その他</th><th>レンタカーで行きます。運転手はケンケン。総額8000円/人くらいかかります。</th></tr>
+</table>
+
+
+
+<div class="a">
+
+<h2>Precaution</h2>
+</div>
+<div class="tyui">
+<ul>
+<li>大人ですので節度ある行動を心掛けましょう。</li>
+<li>飲みすぎには注意しましょう。</li>
+<li>迷子にならないようお願いします。</li>
+<li>時間厳守</li>
+<li>仲間外れはやめましょう。</li>
+<li>ゴミは持ち帰りましょう。</li>
+</ul>
+</div>
+</div>
+
+<footer>
+<div class="aa">
+Copyright© 2020 スペルマ産業 Co.,Ltd.
+</div>
+</footer>
+
+</body>
+</html>

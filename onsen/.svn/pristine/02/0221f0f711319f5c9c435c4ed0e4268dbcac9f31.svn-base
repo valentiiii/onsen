@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="in.css">
+</head>
+<body>
+
+<h1>あなたは18歳以上ですか？</h1><br>
+<div class="naomiimg">
+<img src="naomi.JPG"alt="top" style="width: 300px; height: 280px"><br>
+</div>
+<div class="kakunin" style="display:inline-flex">
+<form action="home.html">
+<input type="submit" value="YES">
+</form>
+<form action="http://sunselco.com/">
+ <input type="submit" value="NO">
+</form>
+</div>
+
+
+</body>
+</html>
